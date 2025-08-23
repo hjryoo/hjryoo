@@ -10,14 +10,12 @@ I enjoy implementing complex business requirements into stable code.)
 ---
 
 ### 🚀 주요 경험 (Key Experiences)
-
 *   **기업 인사(HR) 시스템 운영 및 개발** (2년) (**Corporate HR system operation and development**)
 *   **DRM 보안 솔루션 서버 개발** (2년) (**DRM security solution server development** (2 years)
 
 ---
 
 ### 🛠️ 기술 스택 (Tech Stack)
-
 *   **Language:** Java, SQL, javascript, VueJS
 *   **Framework:** Spring Boot, Spring MVC, MyBatis
 *   **Database:** Oracle, PostgreSQL(Basic), MySQL
@@ -25,6 +23,6 @@ I enjoy implementing complex business requirements into stable code.)
 *   **Etc:** Git, Jenkins, RESTful API, Gradle, SVN
 
 ### 📬 Contact
-
-*   **Email:** `hjryoo31@gmail.com`
-*   **GitHub:** `https://github.com/hjryoo`
+*   **Email:** : [hjryoo31@gmail.com](hjryoo31@gmail.com])
+*   **GitHub:** : [https://github.com/hjryoo](https://github.com/hjryoo])
+*   **TechBlog** : [https://hjr-study-book.netlify.app/](https://hjr-study-book.netlify.app/)
