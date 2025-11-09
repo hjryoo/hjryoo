@@ -10,8 +10,8 @@ I enjoy implementing complex business requirements into stable code.)
 ---
 
 ### 🚀 주요 경험 (Key Experiences)
-*   **기업 인사(HR) 시스템 운영 및 개발** (**Corporate HR system operation and development**) (2 years)
-*   **DRM 보안 솔루션 서버 개발** (**DRM security solution server development** (2 years)
+*   **기업 인사(HR) 시스템 운영 및 개발** (**Corporate HR system operation and development**) (2.5 years)
+*   **DRM 보안 솔루션 서버 개발** (**DRM security solution server development** (2.5 years)
 
 ---
 
